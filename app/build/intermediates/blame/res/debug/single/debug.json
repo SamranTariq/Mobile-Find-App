@@ -1,0 +1,2586 @@
+[
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_delete.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_delete.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_hide.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/hide.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_notification_expand.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/notification_expand.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_halfblock.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/halfblock.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_donthaveaccount.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/donthaveaccount.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_detailmapbackgroundcard2.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/detailmapbackgroundcard2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_money.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/money.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_whatis.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/whatis.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_menu_small.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xxhdpi/ic_menu_small.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_layout_toolbar_title.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/layout_toolbar_title.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_delete.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_delete.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_thinnk2.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/thinnk2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_acforpass.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_acforpass.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_id.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_id.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_permission.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_permission.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_camera_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_camera_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_id.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_id.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smartphone_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_smartphone_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_whatis.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/whatis.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_add_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_trust.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/trust.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_apppermiss2.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_apppermiss2.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_fingerprint_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_fingerprint_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_popupprogressbar2.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/popupprogressbar2.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_share.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_share.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_back_white.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-mdpi/ic_back_white.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_done_all_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_done_all_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_my_location_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_email.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_email.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_location.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_location.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_gesture_lock.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_gesture_lock.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_term.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/term.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_viewborder.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/viewborder.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_star_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/anim_blink.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/anim/blink.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_mapbackground4.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/mapbackground4.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_camera_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_camera_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_all_out_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_all_out_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_star_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_lock1.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xhdpi/lock1.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_idtextview.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/idtextview.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_android_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_halfblock.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/halfblock.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-mdpi_activity_main.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-mdpi/activity_main.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_design1480_1.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/design1480_1.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_notification.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_number.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/number.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_accountcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_accountcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_finger.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxhdpi/ic_finger.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_imagebuttonbackground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/imagebuttonbackground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_info.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/info.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_sms.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_sms.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_id.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_id.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_press.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_press.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_circle3.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_circle3.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_home_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_user_image.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_user_image.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_money.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/money.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_popbutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/popbutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_designbuttontwo.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/designbuttontwo.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_mailcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_mailcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_child_care_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_child_care_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_lock_outline_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_lock_outline_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_trust.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/trust.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_finger_print_authentication.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_finger_print_authentication.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_thinnk2.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/thinnk2.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_circle3.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/circle3.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_thinnk2.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/thinnk2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_donthaveaccount.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/donthaveaccount.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_sms.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_sms.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_book.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/book.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_logofirstscreen.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxhdpi/ic_logofirstscreen.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_cameratest.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/cameratest.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_designhidebutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/designhidebutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_camera_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_camera_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-hdpi_activity_main.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-hdpi/activity_main.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_perm_identity_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_perm_identity_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/anim_bottom_animation.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/anim/bottom_animation.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_donthaveaccount.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/donthaveaccount.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_hide.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/hide.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_finger.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-mdpi/ic_finger.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_money.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/money.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_signup.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_buttonfingerstyle.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/buttonfingerstyle.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_id.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_id.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-sw600dp_activitymaintwo.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-sw600dp/activitymaintwo.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_tick.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/tick.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_activityback.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/activityback.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_whatis.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/whatis.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_permission.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_permission.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lock_outline_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_lock_outline_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_location.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_location.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_textviewstyle.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xhdpi/textviewstyle.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_help.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_help.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_circle3.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_circle3.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_android_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_dialogemail.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/dialogemail.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_popbutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/popbutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_help.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_help.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_done_all_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_done_all_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_fingerprint_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_fingerprint_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_perm_identity_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_perm_identity_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_sms.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_sms.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_designhidebutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/designhidebutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_spinnerdesign.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/spinnerdesign.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_customdailogelock.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/customdailogelock.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_line.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/line.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_question.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/question.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_mailcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_mailcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_edittextstyle2.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/edittextstyle2.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notification.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_location.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_location.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_samrantwo.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/samrantwo.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_viewborder.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/viewborder.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_lockmapbackground4.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/lockmapbackground4.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_done_all_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_done_all_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_star_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_gesture_pattern_selected.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-mdpi/gesture_pattern_selected.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_trust.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/trust.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-sw720dp_activitymaintwo.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-sw720dp/activitymaintwo.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_share.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_share.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_email_black_24dp.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_sketchthree.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/sketchthree.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_checklock.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_checklock.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_progressbar.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/progressbar.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_activityback.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/activityback.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smartphone_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_smartphone_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_notification_collapsed.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/notification_collapsed.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-xhdpi_activity_main.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-xhdpi/activity_main.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_donthaveaccount.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/donthaveaccount.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/font_aldrich.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/font/aldrich.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_home_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_buttonfingerstyle.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/buttonfingerstyle.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_gmail_test_background.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/gmail_test_background.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_signin.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_signin.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_oneb.jpg.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/oneb.jpg"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_share.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_share.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_question.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/question.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_book.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/book.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_buttonstyle.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/buttonstyle.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_circle3.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_circle3.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tick.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/tick.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_layout_toolbar.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_number.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/number.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smartphone_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_smartphone_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_locationpicmapbackground1.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/locationpicmapbackground1.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_book.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/book.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_sketchtwo.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/sketchtwo.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_done_all_black_24dp.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_done_all_black_24dp.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_logofirstscreen.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-hdpi/ic_logofirstscreen.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/font_amiko.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/font/amiko.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_camera_black_24dp.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_camera_black_24dp.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_buttonfingerstyle.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/buttonfingerstyle.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_image.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/image.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_contact.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_press.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_press.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_book.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/book.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_scanner.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/scanner.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_permission.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_permission.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_about.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xxhdpi/ic_about.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_camera.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/camera.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_camera_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_camera_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_all_out_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_all_out_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_gesture_pattern_item_bg.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-mdpi/gesture_pattern_item_bg.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_whatis.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/whatis.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_internet.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/internet.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_appermiss.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_appermiss.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_location.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_location.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_delete.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_delete.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_star_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_share.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_share.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_imagebuttonbackground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/imagebuttonbackground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_camera.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/camera.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_popbutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/popbutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_idtextview.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/idtextview.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_smartphone_black_24dp.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_smartphone_black_24dp.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_fingerprint_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_fingerprint_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_buttonfingerstyle.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/buttonfingerstyle.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_internet.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/internet.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_gmailtestpic.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/gmailtestpic.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_info.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/info.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_android_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_imagebuttonbackground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/imagebuttonbackground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_money.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/money.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-xxhdpi_activity_main.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-xxhdpi/activity_main.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_about.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-mdpi/ic_about.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_line.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v24/line.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_done_all_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_done_all_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_imagebuttonbackground.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/imagebuttonbackground.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_donthaveaccount.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/donthaveaccount.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_popbutton.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/popbutton.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_lockappcardtest.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/lockappcardtest.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_delete.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_delete.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_tick.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/tick.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_question.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/question.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_idtextview.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/idtextview.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_listview.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/listview.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_book.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/book.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_internet.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/internet.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_camera.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/camera.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_lock_explain.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_lock_explain.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-sw360dp_popup.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-sw360dp/popup.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_halfblock.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/halfblock.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_about.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_about.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_done_all_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_done_all_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_email.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/email.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_done_all_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_done_all_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_hide.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/hide.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_icon2.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/icon2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_lock_outline_black_24dp.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_lock_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_help.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_help.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_thinnk.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/thinnk.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_design_4.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/design_4.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_notitest.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/notitest.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_info.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/info.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_child_care_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_child_care_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_done_all_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_done_all_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_circletestimageviw2.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/circletestimageviw2.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_fingerprint_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_fingerprint_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_info.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/info.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_all_out_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_all_out_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_threeb.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/threeb.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_my_location_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_activityback.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/activityback.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tick.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/tick.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_book.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/book.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_viewborder.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/viewborder.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/anim_top_animation.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/anim/top_animation.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_custom_expand_layout.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/custom_expand_layout.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_forgetpattrenone.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/forgetpattrenone.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_done_all_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_done_all_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_image.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/image.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_halfblock.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/halfblock.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_star_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_idtextview.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/idtextview.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_home_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_lockmapbackground4_2.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/lockmapbackground4_2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_done_all_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_done_all_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_money.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/money.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_mapbackground.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/mapbackground.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_share.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_share.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_delete.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_delete.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_circle3.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_circle3.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_mailcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_mailcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_help.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_help.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_test_background.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/test_background.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_info.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/info.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_lock2.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xhdpi/lock2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_viewborder.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/viewborder.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_contact.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/contact.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_phonelink_lock_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_phonelink_lock_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_location.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_location.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_share.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_share.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_image.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/image.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_whatis.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/whatis.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_number.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/number.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_line.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/line.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_design1480_2.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/design1480_2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_home_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-xxxhdpi_activity_main.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-xxxhdpi/activity_main.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_designhidebutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/designhidebutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_email_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_hide.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/hide.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smartphone_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_smartphone_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_tick.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/tick.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_camera.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/camera.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_delete.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_delete.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_lock_outline_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_lock_outline_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-sw360dp_editfornumber.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-sw360dp/editfornumber.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_done_all_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_done_all_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_ringtest.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/ringtest.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_location2.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/location2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_child_care_black_24dp.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_child_care_black_24dp.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_camera.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/camera.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_stoptest.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/stoptest.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_permission.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_permission.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_eye.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/eye.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_help.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_help.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_per_one.jpg.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-mdpi/ic_per_one.jpg"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_btn_blue.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-mdpi/bg_btn_blue.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_star_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_add_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_phonelink_lock_black_24dp.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_phonelink_lock_black_24dp.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_edittextstyle.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/edittextstyle.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_activityback.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/activityback.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_circle3.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_circle3.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_ok3.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/ok3.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_track__device.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_track__device.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_add_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_permission.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_permission.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_lockpermissionnote.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/lockpermissionnote.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_lock_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_android_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_perm_identity_black_24dp.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_perm_identity_black_24dp.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_home_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_buttonfingerstyle.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/buttonfingerstyle.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_halfblock.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/halfblock.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_thinnk.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/thinnk.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_accountcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_accountcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_question.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/question.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_smartphone_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_smartphone_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_thinnk2.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/thinnk2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_fab_label.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/fab_label.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/anim_pulse_anim.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/anim/pulse_anim.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_image.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/image.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_attach_money_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_designhidebutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/designhidebutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_line.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/line.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_finger.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxxhdpi/ic_finger.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_twob.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/twob.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_email_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_image.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/image.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_help.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_help.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_money.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/money.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_popbutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/popbutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_sms.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_sms.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_info.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/info.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_number.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/number.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_id.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_id.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_hide.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/hide.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_all_out_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_all_out_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_child_care_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_child_care_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_android_black_24dp.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_donthaveaccount.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/donthaveaccount.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_notification.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notification.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_trust.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/trust.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_child_care_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_child_care_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_thinnk2.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/thinnk2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_luncher.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_luncher.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_popbutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/popbutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/font_bonbon.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/font/bonbon.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_luncpic.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/luncpic.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/xml_policies.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/xml/policies.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_viewborder.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/viewborder.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_term.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/term.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_image.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/image.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_all_out_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_all_out_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/xml_accessibilityservice.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/xml/accessibilityservice.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_buttonfingerstyle.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/buttonfingerstyle.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_home_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_viewborder.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/viewborder.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_hide.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/hide.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_press.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_press.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_letsgo.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/letsgo.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_design_button.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/design_button.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_passwordmapbackground4.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/passwordmapbackground4.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_about.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-hdpi/ic_about.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lock_outline_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_lock_outline_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_halfblock.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/halfblock.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_all_out_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_all_out_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_delete.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_delete.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_perm_identity_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_perm_identity_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_perm_identity_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_perm_identity_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_unlocktest.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xxhdpi/unlocktest.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_finger.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xhdpi/ic_finger.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_question.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/question.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_press.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_press.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-sw360dp_mytextview.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-sw360dp/mytextview.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_tick.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/tick.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_background.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_home_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_home_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_instruction.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/instruction.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_internet.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/internet.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_imagebuttonbackground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/imagebuttonbackground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_id.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_id.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_location.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_location.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_thinnk.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/thinnk.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_sms.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_sms.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_accountcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_accountcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/anim_move.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/anim/move.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_id.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_id.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_accountcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_accountcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_buttonfingerstyle.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/buttonfingerstyle.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_cameratest2.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/cameratest2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_about.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xhdpi/ic_about.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_camera_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_camera_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_money.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/money.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_add_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_term.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/term.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_lock_outline_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_lock_outline_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_cameraview.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/cameraview.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_designhidebutton.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/designhidebutton.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_done_all_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_done_all_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_forgetpattrentwo.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/forgetpattrentwo.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_finger.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-hdpi/ic_finger.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_notification.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_fragment_test.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/fragment_test.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_camera.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/camera.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_popbutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/popbutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_line.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/line.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_designhidebutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/designhidebutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_permission.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_permission.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_fingerprint_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_fingerprint_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_halfblock.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/halfblock.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_apintro.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_apintro.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_thinnk.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/thinnk.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_internet.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/internet.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_location.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_location.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi_relativefinger.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-anydpi/relativefinger.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_about.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_about.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_image.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/image.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_line.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/line.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_donthaveaccount.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/donthaveaccount.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_camera_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_camera_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_attach_money_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_internet.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/internet.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/font_autour_one.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/font/autour_one.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_phonelink_lock_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_phonelink_lock_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_create_pwd.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_create_pwd.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_add_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_ic_back_2.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/ic_back_2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_sms.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_sms.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_activityback.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/activityback.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_back.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xhdpi/back.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/font_audiowide.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/font/audiowide.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/color_focus_gold.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/color/focus_gold.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_term.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/term.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_smartphone_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_smartphone_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_gesture_pattern_selected_wrong.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-mdpi/gesture_pattern_selected_wrong.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_idtextview.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/idtextview.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_whatis.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/whatis.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_accountcontact.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_accountcontact.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_circletestiimageview.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/circletestiimageview.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_fingerprint_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_fingerprint_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_camera.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/camera.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_test_owner.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_test_owner.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hide.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/hide.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_email_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/font_allerta.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/font/allerta.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_term.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/term.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_add_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_press.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/icon_press.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_whatis.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/whatis.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_viewborder.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/viewborder.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_thinnk2.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/thinnk2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_sketchone.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/sketchone.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_question.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/question.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_done_all_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_done_all_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_all_out_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_all_out_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_gesture_unlock.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_gesture_unlock.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_about.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_about.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_perm_identity_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_perm_identity_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_press.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_press.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_idtextview.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/idtextview.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_forgetpattren.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/forgetpattren.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_zohaib.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/zohaib.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_fingerprint_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_fingerprint_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-sw360dp_activitymaintwo.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-sw360dp/activitymaintwo.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_emailsendbutton.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/emailsendbutton.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_designhidebutton.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/designhidebutton.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_imagebuttonbackground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/imagebuttonbackground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_press.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_press.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_phonelink_lock_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_phonelink_lock_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_internet.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/internet.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_startbutton.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/startbutton.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_logofirstscreen.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xhdpi/ic_logofirstscreen.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_owner.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/owner.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_appicon.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/appicon.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_circle3.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_circle3.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_mailcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/icon_mailcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/menu_menuon.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/menu/menuon.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/menu_drawer_menu.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_info.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/info.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_term.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/term.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_user.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/user.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_trust.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/trust.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_onea.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/onea.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_number.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/number.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_line.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/line.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_thinnk.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/thinnk.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_lock_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_gesture_self_unlock.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_gesture_self_unlock.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activitymaintwo.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activitymaintwo.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_child_care_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_child_care_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_logofirstscreen.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxxhdpi/ic_logofirstscreen.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_passs.jpg.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/passs.jpg"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_activityback.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/activityback.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_term.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/term.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_tabactivity.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_tabactivity.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_star_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_accountcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_accountcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_per_two.jpg.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-mdpi/ic_per_two.jpg"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_help.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_help.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout-sw450dp_activitymaintwo.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout-sw450dp/activitymaintwo.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_permission.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_permission.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_notification.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/layout_activity_appintro2.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/layout/activity_appintro2.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_share.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_share.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_thinnk.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/thinnk.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_idtextview.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/idtextview.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_trust.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/trust.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_mapbackground3.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/mapbackground3.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_imagebuttonbackground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/imagebuttonbackground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_android_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_phonelink_lock_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_phonelink_lock_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_find_devcie_back.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/find_devcie_back.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_perm_identity_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_perm_identity_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_thinnk2.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/thinnk2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_done_all_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_done_all_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_mapbackground2.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/mapbackground2.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_question.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/question.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/anim_slide_in_top.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_number.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/number.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/anim_slide_from_top.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/anim/slide_from_top.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_child_care_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_child_care_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_keyboard_arrow_down_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_keyboard_arrow_down_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_activityback.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/activityback.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_email_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_mailcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_mailcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_accountcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/icon_accountcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_policeowner.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/policeowner.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_email.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/icon_email.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_sms_test_backgorund.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/sms_test_backgorund.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_my_location_24.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_my_location_24.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_lockoneman2.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/lockoneman2.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_android_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_phonelink_lock_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_phonelink_lock_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_my_location_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_phonelink_lock_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/ic_phonelink_lock_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_circle3.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_circle3.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_book.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/book.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xhdpi_girl.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xhdpi/girl.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_thinnk.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/thinnk.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_testiconfloat.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-xxhdpi/testiconfloat.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_lock_outline_black_24dp.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_lock_outline_black_24dp.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-v24_smstestpic.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable-v24/smstestpic.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-ldpi_number.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-ldpi/number.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_mailcontact.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-mdpi/icon_mailcontact.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_settings_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_trust.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/trust.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_icon_mailcontact.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_mailcontact.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_sms.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-xxxhdpi/icon_sms.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-hdpi_tick.png.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-hdpi/tick.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_textview.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/textview.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_popupprogress.xml.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/popupprogress.xml"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable_lunchericon.png.flat",
+        "source": "/home/samran/Project/Owner/app/src/main/res/drawable/lunchericon.png"
+    },
+    {
+        "merged": "/home/samran/Project/Owner/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "/home/samran/Project/Owner/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    }
+]

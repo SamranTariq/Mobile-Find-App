@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gesturepwd_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@drawable/forgetpattrentwo"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/layout_toolbar"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+        android:id="@+id/top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="296dp"
+        android:background="@drawable/forgetpattrenone">
+
+        <ImageView
+            android:id="@+id/btn_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:adjustViewBounds="true"
+            android:padding="6dp"
+            android:src="@drawable/ok3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_toEndOf="@+id/btn_back"
+            android:layout_toRightOf="@+id/btn_back"
+            android:gravity="center"
+            android:text="NEW PATTERN"
+            android:textColor="@color/ic_launcher_background"
+            android:textSize="14sp"/>
+
+        <ImageView
+            android:id="@+id/lock_icon"
+            android:layout_width="match_parent"
+            android:layout_height="207dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/lock2" />
+
+        <TextView
+            android:id="@+id/lock_tip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lock_icon"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="Please Draw Your Pattren"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp"/>
+    </RelativeLayout>
+
+    <com.example.owner.Locker.widget.LockPatternView
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        android:layout_marginTop="111dp"
+        android:id="@+id/lock_pattern_view"></com.example.owner.Locker.widget.LockPatternView>
+</LinearLayout>
+
+
+

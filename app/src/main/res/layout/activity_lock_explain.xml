@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="false"
+    android:layout_centerHorizontal="false"
+    android:layout_weight="1"
+    android:background="@drawable/line">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="33dp"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/audiowide"
+            android:text="Why Lock App"
+            android:textColor="#DFDFDF"
+            android:textSize="29dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginLeft="33dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="244dp"
+            android:layout_height="2dp"
+            android:layout_marginStart="33dp"
+            android:background="#4245AC"
+            android:text="TextView"
+            app:layout_constraintBottom_toBottomOf="@id/textView2"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2"
+            android:layout_marginLeft="33dp" />
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="match_parent"
+            android:layout_height="407dp"
+            android:src="@drawable/lockoneman2"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView3">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="244dp"
+            android:layout_height="2dp"
+            android:layout_marginStart="27dp"
+            android:layout_marginLeft="27dp"
+            android:background="#ffffff"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView13" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:text="PACKAGE USAGE STATS PERMISSION"
+            android:textColor="#EAEAEA"
+            android:textSize="23dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/textView6"
+            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/amiko"
+            android:text="By using this permission i'm able to lock your important mobile app's remotely..."
+            android:textColor="#DDDDDD"
+            android:textSize="16dp"
+            android:paddingRight="60dp"
+            android:textStyle="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.098"
+            app:layout_constraintStart_toStartOf="@+id/textView7"
+            app:layout_constraintTop_toBottomOf="@+id/textView7"
+            android:layout_marginLeft="4dp" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="68dp"
+            android:layout_marginEnd="35dp"
+            android:layout_marginRight="35dp"
+            android:padding="5sp"
+            android:background="@drawable/lockpermissionnote"
+            android:text="Allow permission and Draw App lock pattern..."
+            android:textColor="#270"
+            android:textSize="12dp"
+            android:textStyle="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8" />
+        <RelativeLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="145dp"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.526"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView16">
+
+            <Button
+                android:id="@+id/lockstart"
+                android:layout_width="177dp"
+                android:layout_height="53dp"
+                android:background="@drawable/letsgo"
+                android:text="Let's Go   "
+                android:textAlignment="textEnd"
+                android:textColor="#ffffff"
+                android:textSize="23dp"
+                android:paddingTop="10dp"
+                android:textStyle="normal"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:gravity="end" />
+        </RelativeLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

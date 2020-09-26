@@ -1,0 +1,4 @@
+#Wed Sep 23 14:26:01 PKT 2020
+base.0=/home/samran/Project/Owner/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

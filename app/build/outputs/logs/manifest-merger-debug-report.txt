@@ -1,0 +1,865 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:1-217:12
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:1-217:12
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:1-217:12
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:1-217:12
+MERGED from [com.kevalpatel2106:hiddencamera:1.3.3] /home/samran/.gradle/caches/transforms-2/files-2.1/67fa84207b6c833a40c2d7a34e20540b/jetified-hiddencamera-1.3.3/AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.javiersantos:BottomDialogs:1.2.1] /home/samran/.gradle/caches/transforms-2/files-2.1/842a7b6e238a14618fbc9759a65ab5d6/jetified-BottomDialogs-1.2.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/edaff9cabf4cc42bd96f23c5ad011e1d/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.muddzdev:styleabletoast:2.2.0] /home/samran/.gradle/caches/transforms-2/files-2.1/037f7df01aa888ce6c0c601ec3c7c218/jetified-styleabletoast-2.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/72725f996533adee4ad09e6e8c7a3379/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/samran/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/1e59069f247f99a3b140ce38f46434cc/jetified-firebase-database-16.0.4/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/a6752b0896c0b6cab00fc377917b07bd/jetified-firebase-storage-16.0.4/AndroidManifest.xml:15:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/97d242daeb10c6c7633092dcf4a77467/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/29977d05fb56a7709e583de88f9471d6/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0cb9b0f0b451e91b22374ff5c4bd32fe/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/1220e3d5b680bc093d2f245c2fa6f125/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/79736f31ef700d4d13a47b21d4e62a2d/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/bdd8e6c26d94121d7aba758235fb9646/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/1ca59fa7e8d393e1a350d26e10f43ce4/firebase-database-collection-16.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/b4bd7fb1ec1d1c4eade2e2cfa143a29b/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d09e77af33c5309ff36b0d5030d6618f/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/27370b34d4c889f6775e13893db71a43/jetified-play-services-stats-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d30e9eb32b0c071e771b2983954b21b6/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e9bf747206a18ae10caa704ff3bbe91e/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d400173e46fc260f8b19a24ce929f315/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/034a1f5176cb3f769ce1ef66b84ca2f1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/fbe1f91c812d8425af1eb6e7b2832bdf/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/5717c28bcdce2ab46f108b7a1fc8c7f9/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0387b4931ced6c5117fc271cc316d6d7/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/c72122e57a6959dfa11ebb61e4a868da/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/a0395d71a1ba1caa8e59fe40199e957f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0fe6a3b829484a54dd128ee344a77732/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0afefece30a9afe010a5c75ad1dbd750/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/c8f32ad010e82bd54ca6a8da9b5be0fe/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/df1e47cabdb91506c5cc372dbba9bd73/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/3131af011114bea5b4eed52e1f24a9ed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/111b50bf27ec595790dc231016b42913/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e43c12d212fd17ee1cf25e9695a3dd13/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/834aafa3539e8967b1bd583d310320b0/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e66e65af7c29629a5176660cf9922b80/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/ce1486f9e376beaf3344ecc4e42de2e0/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/c4acc645beccf4deb92283d6007a5dac/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/ebde64c9ff0ea3b56394be3d98404abc/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/23a111d34004560c6a25f63dd7e4233b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8db2f4f62dfb6f83a558ccf44b2d47b4/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e102712ef75a00465635f49eafe24029/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d9fe85443cab1c88ffcf37acfa0a0435/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/b6c8ee27ae98490659d092834cc49b57/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/f5f78d2d3cc0f243e40b6e70d77cb4d4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/750b5aeb9e1b3d70b70eb3d17bda3a8b/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.litepal.android:core:1.4.1] /home/samran/.gradle/caches/transforms-2/files-2.1/ea5fe12e0b4cec81db0362590dbe3c16/core-1.4.1/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:1-217:12
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:1-217:12
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:1-217:12
+	package
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:1-217:12
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:1-217:12
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:6:5-10:40
+	android:largeScreens
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:7:9-36
+	android:smallScreens
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:9:9-36
+	android:normalScreens
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:8:9-37
+	android:xlargeScreens
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:10:9-37
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:14:5-16:47
+	tools:ignore
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:15:9-70
+uses-permission#android.permission.REQUEST_DELETE_PACKAGES
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:17:22-79
+uses-feature#android.hardware.camera
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:19:5-21:35
+	android:required
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:21:9-32
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:20:9-47
+uses-feature#android.hardware.camera2.full
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:22:19-63
+uses-feature#0x00020000
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:23:5-54
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:23:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/1e59069f247f99a3b140ce38f46434cc/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/1e59069f247f99a3b140ce38f46434cc/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/a6752b0896c0b6cab00fc377917b07bd/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/a6752b0896c0b6cab00fc377917b07bd/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:26:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:27:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:30:5-65
+MERGED from [com.kevalpatel2106:hiddencamera:1.3.3] /home/samran/.gradle/caches/transforms-2/files-2.1/67fa84207b6c833a40c2d7a34e20540b/jetified-hiddencamera-1.3.3/AndroidManifest.xml:24:5-65
+MERGED from [com.kevalpatel2106:hiddencamera:1.3.3] /home/samran/.gradle/caches/transforms-2/files-2.1/67fa84207b6c833a40c2d7a34e20540b/jetified-hiddencamera-1.3.3/AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:30:22-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:31:5-78
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:31:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:32:5-34:46
+	tools:ignore
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:34:9-43
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:33:9-61
+uses-feature#android.hardware.camera.front
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:37:5-66
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:37:19-63
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:38:5-70
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:38:19-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:40:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:41:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/1e59069f247f99a3b140ce38f46434cc/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/1e59069f247f99a3b140ce38f46434cc/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/a6752b0896c0b6cab00fc377917b07bd/jetified-firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/a6752b0896c0b6cab00fc377917b07bd/jetified-firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:41:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:42:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:43:5-79
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:43:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:44:5-67
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:44:22-64
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:45:5-72
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:45:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:46:5-74
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:46:22-71
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:47:5-81
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:47:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:48:5-50:47
+	tools:ignore
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:50:9-44
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:49:9-57
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:51:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:51:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:52:5-68
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:52:22-65
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:53:5-55:47
+	tools:ignore
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:55:9-44
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:54:9-62
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:56:5-95
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:56:22-92
+application
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:58:5-215:19
+MERGED from [com.kevalpatel2106:hiddencamera:1.3.3] /home/samran/.gradle/caches/transforms-2/files-2.1/67fa84207b6c833a40c2d7a34e20540b/jetified-hiddencamera-1.3.3/AndroidManifest.xml:26:5-28:38
+MERGED from [com.kevalpatel2106:hiddencamera:1.3.3] /home/samran/.gradle/caches/transforms-2/files-2.1/67fa84207b6c833a40c2d7a34e20540b/jetified-hiddencamera-1.3.3/AndroidManifest.xml:26:5-28:38
+MERGED from [com.google.android.material:material:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/edaff9cabf4cc42bd96f23c5ad011e1d/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/edaff9cabf4cc42bd96f23c5ad011e1d/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:9:5-15:19
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:9:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/samran/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/samran/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0cb9b0f0b451e91b22374ff5c4bd32fe/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0cb9b0f0b451e91b22374ff5c4bd32fe/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/79736f31ef700d4d13a47b21d4e62a2d/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/79736f31ef700d4d13a47b21d4e62a2d/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/bdd8e6c26d94121d7aba758235fb9646/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/bdd8e6c26d94121d7aba758235fb9646/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/b4bd7fb1ec1d1c4eade2e2cfa143a29b/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/b4bd7fb1ec1d1c4eade2e2cfa143a29b/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d09e77af33c5309ff36b0d5030d6618f/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d09e77af33c5309ff36b0d5030d6618f/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/27370b34d4c889f6775e13893db71a43/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/27370b34d4c889f6775e13893db71a43/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/834aafa3539e8967b1bd583d310320b0/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/834aafa3539e8967b1bd583d310320b0/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e66e65af7c29629a5176660cf9922b80/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e66e65af7c29629a5176660cf9922b80/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [org.litepal.android:core:1.4.1] /home/samran/.gradle/caches/transforms-2/files-2.1/ea5fe12e0b4cec81db0362590dbe3c16/core-1.4.1/AndroidManifest.xml:11:5-14:19
+MERGED from [org.litepal.android:core:1.4.1] /home/samran/.gradle/caches/transforms-2/files-2.1/ea5fe12e0b4cec81db0362590dbe3c16/core-1.4.1/AndroidManifest.xml:11:5-14:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/834aafa3539e8967b1bd583d310320b0/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:64:9-35
+	android:label
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:62:9-41
+	android:roundIcon
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:63:9-54
+	android:icon
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:61:9-43
+	android:allowBackup
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:60:9-35
+	android:theme
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:65:9-40
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:59:9-28
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:66:9-123
+	android:value
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:66:66-121
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:66:20-65
+activity#com.example.owner.Track_Device
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:67:9-59
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:67:19-47
+activity#com.example.owner.TestOwner
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:68:9-70:20
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:68:19-44
+activity#com.example.owner.Locker.checklock
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:71:9-54
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:71:19-51
+activity#com.example.owner.Locker.LockExplain
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:72:9-56
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:72:19-53
+activity#com.example.owner.apppermiss2
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:73:9-49
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:73:19-46
+activity#com.example.owner.appintro2
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:74:9-47
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:74:19-44
+activity#com.example.owner.acforpass
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:75:9-47
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:75:19-44
+activity#com.example.owner.apintro
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:76:9-45
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:76:19-42
+activity#com.example.owner.appermiss
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:77:9-47
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:77:19-44
+activity#com.example.owner.signin
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:78:9-44
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:78:19-41
+activity#com.example.owner.signup
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:79:9-44
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:79:19-41
+activity#com.example.owner.UserImageActivity
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:80:9-55
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:80:19-52
+activity#com.example.owner.luncher
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:81:9-87:20
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:81:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:82:13-86:29
+action#android.intent.action.MAIN
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:83:17-69
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:83:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:85:27-74
+service#com.example.owner.DemoCamService
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:88:9-59
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:88:18-48
+activity#com.example.owner.Contact
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:89:9-45
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:89:19-42
+service#com.example.owner.mailservice
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:90:9-56
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:90:18-45
+service#com.example.owner.captureimage
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:91:9-49
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:91:18-46
+activity#com.example.owner.About
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:92:9-43
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:92:19-40
+activity#com.example.owner.FingerPrintAuthentication
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:93:9-95:54
+	android:screenOrientation
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:95:13-51
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:94:13-54
+activity#com.example.owner.Tabactivity
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:96:9-100:20
+	android:theme
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:98:13-56
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:97:13-40
+activity#com.example.owner.CameraView
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:101:9-103:45
+	tools:ignore
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:103:13-42
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:102:13-39
+service#com.example.owner.loc
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:105:9-107:40
+	android:noHistory
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:107:13-37
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:106:13-32
+service#com.example.owner.SMS
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:108:9-40
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:108:18-37
+service#com.example.owner.Battery
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:109:9-44
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:109:18-41
+service#com.example.owner.wifiscan
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:110:9-45
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:110:18-42
+service#com.example.owner.factoryresetservice
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:111:9-56
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:111:18-53
+service#com.example.owner.fivehourfactryresetservice
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:112:9-63
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:112:18-60
+service#com.example.owner.hourscreenlockservice
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:113:9-58
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:113:18-55
+service#com.example.owner.hourdontlockservice
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:114:9-56
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:114:18-53
+service#com.example.owner.Test_Owner.GpsTracker
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:115:9-116:53
+	tools:ignore
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:116:13-42
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:115:18-55
+receiver#com.example.owner.Myadmin
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:117:9-133:20
+	android:permission
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:119:13-70
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:118:13-36
+meta-data#android.app.device_admin
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:120:13-122:52
+	android:resource
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:122:17-49
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:121:17-56
+intent-filter#action:name:android.app.action.ACTION_DEVICE_ADMIN_DISABLED+action:name:android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED+action:name:android.app.action.ACTION_PASSWORD_CHANGED+action:name:android.app.action.ACTION_PASSWORD_FAILED+action:name:android.app.action.ACTION_PASSWORD_SUCCEEDED+action:name:android.app.action.DEVICE_ADMIN_ENABLED+action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:124:13-132:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:125:17-82
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:125:25-79
+action#android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:126:17-99
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:126:25-96
+action#android.app.action.ACTION_DEVICE_ADMIN_DISABLED
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:127:17-90
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:127:25-87
+action#android.app.action.ACTION_PASSWORD_CHANGED
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:129:17-85
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:129:25-82
+action#android.app.action.ACTION_PASSWORD_FAILED
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:130:17-84
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:130:25-81
+action#android.app.action.ACTION_PASSWORD_SUCCEEDED
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:131:17-87
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:131:25-84
+service#com.example.owner.FCMMessageReceiverService
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:135:9-145:19
+	android:exported
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:137:13-37
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:136:13-54
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:138:13-140:75
+	android:value
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:140:17-72
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:139:17-93
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:142:13-144:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:143:17-78
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:143:25-75
+service#com.example.owner.screenlockservice
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:146:9-54
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:146:18-51
+service#com.example.owner.locationservice
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:147:9-52
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:147:18-49
+service#com.example.owner.MyFireBaseInstanceIDService
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:148:9-154:19
+	android:exported
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:150:13-37
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:149:13-56
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:151:13-153:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:152:17-80
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:152:25-77
+service#com.example.owner.mobileringservice
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:155:9-54
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:155:18-51
+service#com.example.owner.DontLockService
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:156:9-52
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:156:18-49
+service#com.example.owner.GetBackCoreService
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:157:9-55
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:157:18-52
+receiver#com.example.owner.onboot
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:159:9-168:20
+	android:enabled
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:161:13-35
+	android:exported
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:162:13-36
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:160:13-35
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.DEFAULT
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:163:13-167:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:164:17-79
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:164:25-76
+category#android.intent.category.DEFAULT
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:166:17-76
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:166:27-73
+receiver#com.example.owner.screenunlock
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:169:9-50
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:169:19-47
+receiver#com.example.owner.hideapp
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:170:9-174:20
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:170:19-42
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:171:13-173:29
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:172:17-82
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:172:25-79
+activity#com.example.owner.Locker.activities.lock.GestureCreateActivity
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:176:9-82
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:176:19-79
+receiver#com.example.owner.Locker.receiver.LockRestarterBroadcastReceiver
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:178:9-182:66
+	android:enabled
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:180:13-35
+	android:label
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:182:13-54
+	android:exported
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:181:13-36
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:179:13-75
+activity#com.example.owner.Locker.activities.pwd.CreatePwdActivity
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:184:9-187:52
+	android:screenOrientation
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:187:13-49
+	android:label
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:186:13-44
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:185:13-68
+activity#com.example.owner.Locker.activities.lock.GestureSelfUnlockActivity
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:188:9-191:52
+	android:screenOrientation
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:191:13-49
+	android:label
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:190:13-35
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:189:13-77
+activity#com.example.owner.Locker.activities.lock.GestureUnlockActivity
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:192:9-199:60
+	android:screenOrientation
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:198:13-49
+	android:label
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:195:13-29
+	android:excludeFromRecents
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:194:13-46
+	android:launchMode
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:196:13-44
+	android:noHistory
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:197:13-37
+	android:theme
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:199:13-57
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:193:13-73
+service#com.example.owner.Locker.services.LoadAppListService
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:201:9-71
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:201:18-68
+service#com.example.owner.Locker.services.LockService
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:202:9-64
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:202:18-61
+receiver#com.example.owner.Locker.receiver.BootBroadcastReceiver
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:204:9-210:20
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:204:19-72
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.LAUNCHER
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:205:13-209:29
+meta-data#preloaded_fonts
+ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:212:9-214:57
+	android:resource
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:214:13-54
+	android:name
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml:213:13-43
+uses-sdk
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+MERGED from [com.kevalpatel2106:hiddencamera:1.3.3] /home/samran/.gradle/caches/transforms-2/files-2.1/67fa84207b6c833a40c2d7a34e20540b/jetified-hiddencamera-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.kevalpatel2106:hiddencamera:1.3.3] /home/samran/.gradle/caches/transforms-2/files-2.1/67fa84207b6c833a40c2d7a34e20540b/jetified-hiddencamera-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.javiersantos:BottomDialogs:1.2.1] /home/samran/.gradle/caches/transforms-2/files-2.1/842a7b6e238a14618fbc9759a65ab5d6/jetified-BottomDialogs-1.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.javiersantos:BottomDialogs:1.2.1] /home/samran/.gradle/caches/transforms-2/files-2.1/842a7b6e238a14618fbc9759a65ab5d6/jetified-BottomDialogs-1.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/edaff9cabf4cc42bd96f23c5ad011e1d/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/edaff9cabf4cc42bd96f23c5ad011e1d/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.muddzdev:styleabletoast:2.2.0] /home/samran/.gradle/caches/transforms-2/files-2.1/037f7df01aa888ce6c0c601ec3c7c218/jetified-styleabletoast-2.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.muddzdev:styleabletoast:2.2.0] /home/samran/.gradle/caches/transforms-2/files-2.1/037f7df01aa888ce6c0c601ec3c7c218/jetified-styleabletoast-2.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/72725f996533adee4ad09e6e8c7a3379/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/72725f996533adee4ad09e6e8c7a3379/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/samran/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/samran/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/1e59069f247f99a3b140ce38f46434cc/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/1e59069f247f99a3b140ce38f46434cc/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/a6752b0896c0b6cab00fc377917b07bd/jetified-firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/a6752b0896c0b6cab00fc377917b07bd/jetified-firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/97d242daeb10c6c7633092dcf4a77467/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/97d242daeb10c6c7633092dcf4a77467/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/29977d05fb56a7709e583de88f9471d6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/29977d05fb56a7709e583de88f9471d6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0cb9b0f0b451e91b22374ff5c4bd32fe/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0cb9b0f0b451e91b22374ff5c4bd32fe/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/1220e3d5b680bc093d2f245c2fa6f125/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/1220e3d5b680bc093d2f245c2fa6f125/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/79736f31ef700d4d13a47b21d4e62a2d/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/79736f31ef700d4d13a47b21d4e62a2d/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/bdd8e6c26d94121d7aba758235fb9646/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/bdd8e6c26d94121d7aba758235fb9646/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/1ca59fa7e8d393e1a350d26e10f43ce4/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/1ca59fa7e8d393e1a350d26e10f43ce4/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/b4bd7fb1ec1d1c4eade2e2cfa143a29b/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/b4bd7fb1ec1d1c4eade2e2cfa143a29b/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d09e77af33c5309ff36b0d5030d6618f/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d09e77af33c5309ff36b0d5030d6618f/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/27370b34d4c889f6775e13893db71a43/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/samran/.gradle/caches/transforms-2/files-2.1/27370b34d4c889f6775e13893db71a43/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d30e9eb32b0c071e771b2983954b21b6/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d30e9eb32b0c071e771b2983954b21b6/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e9bf747206a18ae10caa704ff3bbe91e/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e9bf747206a18ae10caa704ff3bbe91e/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d400173e46fc260f8b19a24ce929f315/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d400173e46fc260f8b19a24ce929f315/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/034a1f5176cb3f769ce1ef66b84ca2f1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/034a1f5176cb3f769ce1ef66b84ca2f1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/fbe1f91c812d8425af1eb6e7b2832bdf/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/fbe1f91c812d8425af1eb6e7b2832bdf/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/5717c28bcdce2ab46f108b7a1fc8c7f9/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/5717c28bcdce2ab46f108b7a1fc8c7f9/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0387b4931ced6c5117fc271cc316d6d7/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0387b4931ced6c5117fc271cc316d6d7/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/c72122e57a6959dfa11ebb61e4a868da/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/c72122e57a6959dfa11ebb61e4a868da/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/a0395d71a1ba1caa8e59fe40199e957f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/a0395d71a1ba1caa8e59fe40199e957f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0fe6a3b829484a54dd128ee344a77732/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0fe6a3b829484a54dd128ee344a77732/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0afefece30a9afe010a5c75ad1dbd750/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/0afefece30a9afe010a5c75ad1dbd750/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/c8f32ad010e82bd54ca6a8da9b5be0fe/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/c8f32ad010e82bd54ca6a8da9b5be0fe/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/df1e47cabdb91506c5cc372dbba9bd73/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/df1e47cabdb91506c5cc372dbba9bd73/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/3131af011114bea5b4eed52e1f24a9ed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/3131af011114bea5b4eed52e1f24a9ed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/111b50bf27ec595790dc231016b42913/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/111b50bf27ec595790dc231016b42913/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e43c12d212fd17ee1cf25e9695a3dd13/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e43c12d212fd17ee1cf25e9695a3dd13/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/834aafa3539e8967b1bd583d310320b0/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/834aafa3539e8967b1bd583d310320b0/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e66e65af7c29629a5176660cf9922b80/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e66e65af7c29629a5176660cf9922b80/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/ce1486f9e376beaf3344ecc4e42de2e0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/ce1486f9e376beaf3344ecc4e42de2e0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/c4acc645beccf4deb92283d6007a5dac/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/c4acc645beccf4deb92283d6007a5dac/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/ebde64c9ff0ea3b56394be3d98404abc/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/ebde64c9ff0ea3b56394be3d98404abc/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/23a111d34004560c6a25f63dd7e4233b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/23a111d34004560c6a25f63dd7e4233b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8db2f4f62dfb6f83a558ccf44b2d47b4/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8db2f4f62dfb6f83a558ccf44b2d47b4/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e102712ef75a00465635f49eafe24029/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/e102712ef75a00465635f49eafe24029/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d9fe85443cab1c88ffcf37acfa0a0435/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d9fe85443cab1c88ffcf37acfa0a0435/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/b6c8ee27ae98490659d092834cc49b57/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/b6c8ee27ae98490659d092834cc49b57/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/f5f78d2d3cc0f243e40b6e70d77cb4d4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/f5f78d2d3cc0f243e40b6e70d77cb4d4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/750b5aeb9e1b3d70b70eb3d17bda3a8b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/750b5aeb9e1b3d70b70eb3d17bda3a8b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.litepal.android:core:1.4.1] /home/samran/.gradle/caches/transforms-2/files-2.1/ea5fe12e0b4cec81db0362590dbe3c16/core-1.4.1/AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:1.4.1] /home/samran/.gradle/caches/transforms-2/files-2.1/ea5fe12e0b4cec81db0362590dbe3c16/core-1.4.1/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+		ADDED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+activity#com.gun0912.tedpermission.TedPermissionActivity
+ADDED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:10:9-14:67
+	android:screenOrientation
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:13:13-52
+	android:configChanges
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:12:13-144
+	android:theme
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:14:13-64
+	android:name
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:11:13-75
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

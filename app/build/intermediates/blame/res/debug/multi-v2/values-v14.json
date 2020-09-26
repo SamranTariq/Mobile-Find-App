@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/samran/Project/Owner/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/samran/.gradle/caches/transforms-2/files-2.1/842a7b6e238a14618fbc9759a65ab5d6/jetified-BottomDialogs-1.2.1/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,168",
+                        "endLines": "4,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "163,286"
+                    }
+                }
+            ]
+        }
+    ]
+}

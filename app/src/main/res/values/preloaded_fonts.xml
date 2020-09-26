@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aldrich</item>
+        <item>@font/allerta</item>
+        <item>@font/amiko</item>
+        <item>@font/audiowide</item>
+        <item>@font/autour_one</item>
+        <item>@font/bonbon</item>
+    </array>
+</resources>

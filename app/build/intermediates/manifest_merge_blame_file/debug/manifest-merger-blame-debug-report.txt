@@ -1,0 +1,605 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.owner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml
+10
+11    <supports-screens
+11-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:6:5-10:40
+12        android:largeScreens="true"
+12-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:7:9-36
+13        android:normalScreens="true"
+13-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:8:9-37
+14        android:smallScreens="true"
+14-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:9:9-36
+15        android:xlargeScreens="true" />
+15-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:10:9-37
+16
+17    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+17-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:12:5-75
+17-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:12:22-72
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:13:5-75
+18-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:13:22-72
+19    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+19-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:14:5-16:47
+19-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:15:9-70
+20    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+20-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:17:5-82
+20-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:17:22-79
+21
+22    <uses-feature
+22-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:19:5-21:35
+23        android:name="android.hardware.camera"
+23-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:20:9-47
+24        android:required="true" />
+24-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:21:9-32
+25    <uses-feature android:name="android.hardware.camera2.full" />
+25-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:22:5-66
+25-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:22:19-63
+26    <uses-feature
+26-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:23:5-54
+27        android:glEsVersion="0x00020000"
+27-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:23:19-51
+28        android:required="true" />
+28-->[com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+29
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:25:5-79
+30-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:25:22-76
+31    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+31-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:26:5-76
+31-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:26:22-73
+32    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+32-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:27:5-76
+32-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:27:22-73
+33    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+33-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:13:5-75
+33-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:13:22-72
+34    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+34-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:29:5-81
+34-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:29:22-78
+35    <uses-permission android:name="android.permission.CAMERA" />
+35-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:30:5-65
+35-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:30:22-62
+36    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+36-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:31:5-78
+36-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:31:22-75
+37    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+37-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:32:5-34:46
+37-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:33:9-61
+38    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+38-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:13:5-75
+38-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:13:22-72
+39
+40    <uses-feature android:name="android.hardware.camera.front" />
+40-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:37:5-66
+40-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:37:19-63
+41    <uses-feature android:name="android.hardware.camera.autofocus" />
+41-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:38:5-70
+41-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:38:19-67
+42
+43    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+43-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:40:5-81
+43-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:40:22-78
+44    <uses-permission android:name="android.permission.INTERNET" />
+44-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:41:5-67
+44-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:41:22-64
+45    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+45-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:42:5-79
+45-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:42:22-76
+46    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+46-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:43:5-79
+46-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:43:22-76
+47    <uses-permission android:name="android.permission.SEND_SMS" /> <!-- Step 1: Add the following permission to the app -->
+47-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:44:5-67
+47-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:44:22-64
+48    <uses-permission android:name="android.permission.USE_BIOMETRIC" /> <!-- Step 2: This permission is depreciated in Android P -->
+48-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:45:5-72
+48-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:45:22-69
+49    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+49-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:46:5-74
+49-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:46:22-71
+50    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+50-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:47:5-81
+50-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:47:22-78
+51    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+51-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:48:5-50:47
+51-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:49:9-57
+52    <uses-permission android:name="android.permission.WAKE_LOCK" />
+52-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:51:5-68
+52-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:51:22-65
+53    <uses-permission android:name="android.permission.GET_TASKS" />
+53-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:52:5-68
+53-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:52:22-65
+54    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+54-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:53:5-55:47
+54-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:54:9-62
+55    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+55-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:56:5-95
+55-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:56:22-92
+56
+57    <!-- Required by older versions of Google Play services to create IID tokens -->
+58    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+58-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:26:5-82
+58-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:26:22-79
+59
+60    <application
+60-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:58:5-215:19
+61        android:name="com.example.owner.App"
+61-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:59:9-28
+62        android:allowBackup="true"
+62-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:60:9-35
+63        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+63-->[androidx.core:core:1.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/834aafa3539e8967b1bd583d310320b0/core-1.0.0/AndroidManifest.xml:22:18-86
+64        android:debuggable="true"
+65        android:icon="@mipmap/ic_launcher"
+65-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:61:9-43
+66        android:label="@string/app_name"
+66-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:62:9-41
+67        android:roundIcon="@mipmap/ic_launcher_round"
+67-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:63:9-54
+68        android:supportsRtl="true"
+68-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:64:9-35
+69        android:testOnly="true"
+70        android:theme="@style/AppTheme" >
+70-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:65:9-40
+71        <meta-data
+71-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:66:9-123
+72            android:name="com.google.android.geo.API_KEY"
+72-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:66:20-65
+73            android:value="AIzaSyBgtpHZMyOU1tEtUDxNu4psp5u3qmQON_I" />
+73-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:66:66-121
+74
+75        <activity android:name="com.example.owner.Track_Device" />
+75-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:67:9-59
+75-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:67:19-47
+76        <activity android:name="com.example.owner.TestOwner" >
+76-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:68:9-70:20
+76-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:68:19-44
+77        </activity>
+78        <activity android:name="com.example.owner.Locker.checklock" />
+78-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:71:9-54
+78-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:71:19-51
+79        <activity android:name="com.example.owner.Locker.LockExplain" />
+79-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:72:9-56
+79-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:72:19-53
+80        <activity android:name="com.example.owner.apppermiss2" />
+80-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:73:9-49
+80-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:73:19-46
+81        <activity android:name="com.example.owner.appintro2" />
+81-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:74:9-47
+81-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:74:19-44
+82        <activity android:name="com.example.owner.acforpass" />
+82-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:75:9-47
+82-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:75:19-44
+83        <activity android:name="com.example.owner.apintro" />
+83-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:76:9-45
+83-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:76:19-42
+84        <activity android:name="com.example.owner.appermiss" />
+84-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:77:9-47
+84-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:77:19-44
+85        <activity android:name="com.example.owner.signin" />
+85-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:78:9-44
+85-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:78:19-41
+86        <activity android:name="com.example.owner.signup" />
+86-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:79:9-44
+86-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:79:19-41
+87        <activity android:name="com.example.owner.UserImageActivity" />
+87-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:80:9-55
+87-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:80:19-52
+88        <activity android:name="com.example.owner.luncher" >
+88-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:81:9-87:20
+88-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:81:19-42
+89            <intent-filter>
+89-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:82:13-86:29
+90                <action android:name="android.intent.action.MAIN" />
+90-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:83:17-69
+90-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:83:25-66
+91
+92                <category android:name="android.intent.category.LAUNCHER" />
+92-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:85:17-77
+92-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:85:27-74
+93            </intent-filter>
+94        </activity>
+95
+96        <service android:name="com.example.owner.DemoCamService" />
+96-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:88:9-59
+96-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:88:18-48
+97
+98        <activity android:name="com.example.owner.Contact" />
+98-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:89:9-45
+98-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:89:19-42
+99
+100        <service android:name="com.example.owner.mailservice" />
+100-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:90:9-56
+100-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:90:18-45
+101        <service android:name="com.example.owner.captureimage" />
+101-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:91:9-49
+101-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:91:18-46
+102
+103        <activity android:name="com.example.owner.About" />
+103-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:92:9-43
+103-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:92:19-40
+104        <activity
+104-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:93:9-95:54
+105            android:name="com.example.owner.FingerPrintAuthentication"
+105-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:94:13-54
+106            android:screenOrientation="fullSensor" />
+106-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:95:13-51
+107        <activity
+107-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:96:9-100:20
+108            android:name="com.example.owner.Tabactivity"
+108-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:97:13-40
+109            android:theme="@style/AppTheme.NoActionBar" >
+109-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:98:13-56
+110        </activity>
+111        <activity android:name="com.example.owner.CameraView" />
+111-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:101:9-103:45
+111-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:102:13-39
+112
+113        <service
+113-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:105:9-107:40
+114            android:name="com.example.owner.loc"
+114-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:106:13-32
+115            android:noHistory="true" />
+115-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:107:13-37
+116        <service android:name="com.example.owner.SMS" />
+116-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:108:9-40
+116-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:108:18-37
+117        <service android:name="com.example.owner.Battery" />
+117-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:109:9-44
+117-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:109:18-41
+118        <service android:name="com.example.owner.wifiscan" />
+118-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:110:9-45
+118-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:110:18-42
+119        <service android:name="com.example.owner.factoryresetservice" />
+119-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:111:9-56
+119-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:111:18-53
+120        <service android:name="com.example.owner.fivehourfactryresetservice" />
+120-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:112:9-63
+120-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:112:18-60
+121        <service android:name="com.example.owner.hourscreenlockservice" />
+121-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:113:9-58
+121-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:113:18-55
+122        <service android:name="com.example.owner.hourdontlockservice" />
+122-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:114:9-56
+122-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:114:18-53
+123        <service android:name="com.example.owner.Test_Owner.GpsTracker" />
+123-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:115:9-116:53
+123-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:115:18-55
+124
+125        <receiver
+125-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:117:9-133:20
+126            android:name="com.example.owner.Myadmin"
+126-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:118:13-36
+127            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+127-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:119:13-70
+128            <meta-data
+128-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:120:13-122:52
+129                android:name="android.app.device_admin"
+129-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:121:17-56
+130                android:resource="@xml/policies" />
+130-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:122:17-49
+131
+132            <intent-filter>
+132-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:124:13-132:29
+133                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+133-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:125:17-82
+133-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:125:25-79
+134                <action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLE_REQUESTED" />
+134-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:126:17-99
+134-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:126:25-96
+135                <action android:name="android.app.action.ACTION_DEVICE_ADMIN_DISABLED" />
+135-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:127:17-90
+135-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:127:25-87
+136                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+136-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:125:17-82
+136-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:125:25-79
+137                <action android:name="android.app.action.ACTION_PASSWORD_CHANGED" />
+137-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:129:17-85
+137-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:129:25-82
+138                <action android:name="android.app.action.ACTION_PASSWORD_FAILED" />
+138-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:130:17-84
+138-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:130:25-81
+139                <action android:name="android.app.action.ACTION_PASSWORD_SUCCEEDED" />
+139-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:131:17-87
+139-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:131:25-84
+140            </intent-filter>
+141        </receiver>
+142
+143        <service
+143-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:135:9-145:19
+144            android:name="com.example.owner.FCMMessageReceiverService"
+144-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:136:13-54
+145            android:exported="false" >
+145-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:137:13-37
+146            <meta-data
+146-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:138:13-140:75
+147                android:name="com.google.firebase.messaging.default_notification_channel_id"
+147-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:139:17-93
+148                android:value="@string/default_notification_channel_id" />
+148-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:140:17-72
+149
+150            <intent-filter>
+150-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:142:13-144:29
+151                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+151-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:143:17-78
+151-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:143:25-75
+152            </intent-filter>
+153        </service>
+154        <service android:name="com.example.owner.screenlockservice" />
+154-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:146:9-54
+154-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:146:18-51
+155        <service android:name="com.example.owner.locationservice" />
+155-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:147:9-52
+155-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:147:18-49
+156        <service
+156-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:148:9-154:19
+157            android:name="com.example.owner.MyFireBaseInstanceIDService"
+157-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:149:13-56
+158            android:exported="false" >
+158-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:150:13-37
+159            <intent-filter>
+159-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:151:13-153:29
+160                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+160-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:152:17-80
+160-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:152:25-77
+161            </intent-filter>
+162        </service>
+163        <service android:name="com.example.owner.mobileringservice" />
+163-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:155:9-54
+163-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:155:18-51
+164        <service android:name="com.example.owner.DontLockService" />
+164-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:156:9-52
+164-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:156:18-49
+165        <service android:name="com.example.owner.GetBackCoreService" />
+165-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:157:9-55
+165-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:157:18-52
+166
+167        <receiver
+167-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:159:9-168:20
+168            android:name="com.example.owner.onboot"
+168-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:160:13-35
+169            android:enabled="true"
+169-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:161:13-35
+170            android:exported="true" >
+170-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:162:13-36
+171            <intent-filter>
+171-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:163:13-167:29
+172                <action android:name="android.intent.action.BOOT_COMPLETED" />
+172-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:164:17-79
+172-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:164:25-76
+173
+174                <category android:name="android.intent.category.DEFAULT" />
+174-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:166:17-76
+174-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:166:27-73
+175            </intent-filter>
+176        </receiver>
+177        <receiver android:name="com.example.owner.screenunlock" />
+177-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:169:9-50
+177-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:169:19-47
+178        <receiver android:name="com.example.owner.hideapp" >
+178-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:170:9-174:20
+178-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:170:19-42
+179            <intent-filter>
+179-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:171:13-173:29
+180                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+180-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:172:17-82
+180-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:172:25-79
+181            </intent-filter>
+182        </receiver>
+183
+184        <activity android:name="com.example.owner.Locker.activities.lock.GestureCreateActivity" />
+184-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:176:9-82
+184-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:176:19-79
+185
+186        <receiver
+186-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:178:9-182:66
+187            android:name="com.example.owner.Locker.receiver.LockRestarterBroadcastReceiver"
+187-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:179:13-75
+188            android:enabled="true"
+188-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:180:13-35
+189            android:exported="true"
+189-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:181:13-36
+190            android:label="RestartServiceWhenStopped" />
+190-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:182:13-54
+191
+192        <activity
+192-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:184:9-187:52
+193            android:name="com.example.owner.Locker.activities.pwd.CreatePwdActivity"
+193-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:185:13-68
+194            android:label="Create Password"
+194-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:186:13-44
+195            android:screenOrientation="portrait" />
+195-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:187:13-49
+196        <activity
+196-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:188:9-191:52
+197            android:name="com.example.owner.Locker.activities.lock.GestureSelfUnlockActivity"
+197-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:189:13-77
+198            android:label="Unlock"
+198-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:190:13-35
+199            android:screenOrientation="portrait" />
+199-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:191:13-49
+200        <activity
+200-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:192:9-199:60
+201            android:name="com.example.owner.Locker.activities.lock.GestureUnlockActivity"
+201-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:193:13-73
+202            android:excludeFromRecents="true"
+202-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:194:13-46
+203            android:label=""
+203-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:195:13-29
+204            android:launchMode="singleTask"
+204-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:196:13-44
+205            android:noHistory="true"
+205-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:197:13-37
+206            android:screenOrientation="portrait"
+206-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:198:13-49
+207            android:theme="@style/unlock_activity_style" />
+207-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:199:13-57
+208
+209        <service android:name="com.example.owner.Locker.services.LoadAppListService" />
+209-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:201:9-71
+209-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:201:18-68
+210        <service android:name="com.example.owner.Locker.services.LockService" />
+210-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:202:9-64
+210-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:202:18-61
+211
+212        <receiver android:name="com.example.owner.Locker.receiver.BootBroadcastReceiver" >
+212-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:204:9-210:20
+212-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:204:19-72
+213            <intent-filter>
+213-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:205:13-209:29
+214                <action android:name="android.intent.action.BOOT_COMPLETED" />
+214-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:164:17-79
+214-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:164:25-76
+215
+216                <category android:name="android.intent.category.LAUNCHER" />
+216-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:85:17-77
+216-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:85:27-74
+217            </intent-filter>
+218        </receiver>
+219
+220        <meta-data
+220-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:212:9-214:57
+221            android:name="preloaded_fonts"
+221-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:213:13-43
+222            android:resource="@array/preloaded_fonts" />
+222-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:214:13-54
+223
+224        <activity
+224-->[gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:10:9-14:67
+225            android:name="com.gun0912.tedpermission.TedPermissionActivity"
+225-->[gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:11:13-75
+226            android:configChanges="mcc|mnc|locale|keyboard|keyboardHidden|screenLayout|fontScale|uiMode|orientation|screenSize|layoutDirection"
+226-->[gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:12:13-144
+227            android:screenOrientation="unspecified"
+227-->[gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:13:13-52
+228            android:theme="@style/Theme.Transparent.Permission" />
+228-->[gun0912.ted:tedpermission:2.2.2] /home/samran/.gradle/caches/transforms-2/files-2.1/f9aa4b6909132c75d377e94819b58131/jetified-tedpermission-2.2.2/AndroidManifest.xml:14:13-64
+229        <activity
+229-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+230            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+230-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+231            android:excludeFromRecents="true"
+231-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+232            android:exported="true"
+232-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+233            android:launchMode="singleTask"
+233-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+234            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+234-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+235            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+235-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+236
+237        <service
+237-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+238            android:name="com.google.firebase.components.ComponentDiscoveryService"
+238-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+239            android:exported="false" >
+239-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+240            <meta-data
+240-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+241                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+241-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+242                android:value="com.google.firebase.components.ComponentRegistrar" />
+242-->[com.google.firebase:firebase-auth:16.0.5] /home/samran/.gradle/caches/transforms-2/files-2.1/b91d558d0c9a44ef2d4c0adf7ae9222a/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+243            <meta-data
+243-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+244                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+244-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+245                android:value="com.google.firebase.components.ComponentRegistrar" />
+245-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+246        </service>
+247        <!--
+248             FirebaseMessagingService performs security checks at runtime,
+249             no need for explicit permissions despite exported="true"
+250        -->
+251        <service
+251-->[com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+252            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+252-->[com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+253            android:exported="true" >
+253-->[com.google.firebase:firebase-messaging:17.3.4] /home/samran/.gradle/caches/transforms-2/files-2.1/c66326c88db08e4b02cf031dcebc20eb/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+254            <intent-filter android:priority="-500" >
+254-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:142:13-144:29
+255                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+255-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:143:17-78
+255-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:143:25-75
+256            </intent-filter>
+257        </service> <!-- Needs to be explicitly declared on P+ -->
+258        <uses-library
+258-->[com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+259            android:name="org.apache.http.legacy"
+259-->[com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+260            android:required="false" />
+260-->[com.google.android.gms:play-services-maps:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/7a53e7e1ae80dfd379dd87723ed34e6f/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+261
+262        <receiver
+262-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+263            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+263-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+264            android:exported="true"
+264-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+265            android:permission="com.google.android.c2dm.permission.SEND" >
+265-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+266            <intent-filter>
+266-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+267                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+267-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
+267-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
+268            </intent-filter>
+269        </receiver>
+270        <!--
+271             FirebaseInstanceIdService performs security checks at runtime,
+272             no need for explicit permissions despite exported="true"
+273        -->
+274        <service
+274-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+275            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+275-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+276            android:exported="true" >
+276-->[com.google.firebase:firebase-iid:17.0.4] /home/samran/.gradle/caches/transforms-2/files-2.1/ac5a096170aacfc8b11ccef59697ef37/jetified-firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+277            <intent-filter android:priority="-500" >
+277-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:151:13-153:29
+278                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+278-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:152:17-80
+278-->/home/samran/Project/Owner/app/src/main/AndroidManifest.xml:152:25-77
+279            </intent-filter>
+280        </service>
+281
+282        <activity
+282-->[com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+283            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+283-->[com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+284            android:exported="false"
+284-->[com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+285            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+285-->[com.google.android.gms:play-services-base:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+286
+287        <provider
+287-->[com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+288            android:name="com.google.firebase.provider.FirebaseInitProvider"
+288-->[com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+289            android:authorities="com.example.owner.firebaseinitprovider"
+289-->[com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+290            android:exported="false"
+290-->[com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+291            android:initOrder="100" />
+291-->[com.google.firebase:firebase-common:16.0.3] /home/samran/.gradle/caches/transforms-2/files-2.1/c3433d17e9995965f070f4dcfa57dd05/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+292
+293        <meta-data
+293-->[com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+294            android:name="com.google.android.gms.version"
+294-->[com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+295            android:value="@integer/google_play_services_version" />
+295-->[com.google.android.gms:play-services-basement:17.0.0] /home/samran/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+296    </application>
+297
+298</manifest>

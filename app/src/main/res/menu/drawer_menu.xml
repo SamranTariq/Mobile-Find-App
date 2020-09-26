@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+    </group>
+    <item android:title="Setting">
+        <menu>
+            <item
+                android:id="@+id/applockpattren"
+                android:icon="@drawable/ic_lock_outline_black_24dp"
+                android:title="Change Pattern" />
+            <item
+                android:id="@+id/hideapp"
+                android:icon="@drawable/ic_baseline_all_out_24"
+                android:title="Hide App" />
+            <item
+                android:id="@+id/permission"
+                android:icon="@drawable/ic_baseline_done_all_24"
+                android:title="Permission's status" />
+        </menu>
+    </item>
+    <item android:title="About me">
+        <menu>
+            <item
+                android:id="@+id/info"
+                android:icon="@drawable/info"
+                android:title="My info" />
+            <item
+                android:id="@+id/emailrecieved"
+                android:icon="@drawable/ic_baseline_email_24"
+                android:title="Where i received email" />
+        </menu>
+    </item>
+    <item android:title="For me">
+        <menu>
+            <item
+                android:id="@+id/rateus"
+                android:icon="@drawable/ic_baseline_star_24"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/help"
+                android:icon="@drawable/ic_baseline_attach_money_24"
+                android:title="Donate" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">𝐟𝐢𝐧𝐝 𝐦𝐲 𝐦𝐨𝐛𝐢𝐥𝐞</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="authentication">𝔽𝕀ℕ𝔾𝔼ℝℙℝ𝕀ℕ𝕋 ℙℝ𝕆ℂ𝔼𝕊𝕊 𝔽𝕆ℝ 𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℙ𝕌ℝℙ𝕆𝕊𝔼</string>
+    <string name="authentiaction1">Fingerprint Authentication</string>
+    <string name="authentication2">Place your Finger on the mobile Scanner to Proceed</string>
+    <string name="authentication3">🅾🆆🅽🅴🆁</string>
+    <string name="error_cannot_write">Cannot write image captured by camera.</string>
+    <string name="error_cannot_open">Cannot open camera.</string>
+    <string name="error_cannot_get_permission">Camera permission not available.</string>
+    <string name="error_not_having_camera">Your device does not have front camera.</string>
+    <string name="error_camera_permission_denied">Camera permission denied.</string>
+    <string name="Gname">Your Name*</string>
+    <string name="Gphone">Trusted Phone Number*</string>
+    <string name="Gmail">Your Active Email*</string>
+    <string name="Gbutton1">Save</string>
+
+    <string name="Sone">Number of Attempts*</string>
+    <string name="Stwo">After selected number of attempts OWNER able to show your information and send you mobile location with attach picture*</string>
+    <string name="Sthree">Help</string>
+
+    <string name="textview1">Please activate permissions by Enable the switch button.You can remove the permission by Disable the switch button when you want(USE DEVICE ADMINISTRATION PERMISSION)</string>
+    <string name="switch1">DEVICE ADMINISTRATION PERMISSION</string>
+    <string name="switch2">Enable Phone_Locatiion</string>
+    <string name="welcome">WELCOME</string>
+    <string name="pref_key_delay">e</string>
+    <string name="pref_def_delay">1000</string>
+    <string name="notif_msg_camera_err">The camera could not be opened to take a picture</string>
+    <string name="default_notification_channel_id">1002</string>
+    <string name="pref_key_command_number_1">pref_key_command_number_1</string>
+    <string name="pref_key_command_number_2">pref_key_command_number_2</string>
+    <string name="pref_key_operation_mode">pref_key_operation_mode</string>
+    <string name="pref_summary_help_enable">Check to enable help at startup</string>
+    <string name="pref_key_help_enable">pref_key_help_enable</string>
+    <string name="pref_key_revoke_setup">pref_key_revoke_setup</string>
+    <string name="pref_key_command_text">pref_key_command_text</string>
+    <string name="app_name1">Login and SignUp ScreenDesign Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email Id</string>
+    <string name="passowrd">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser">Not a Member yet? Sign Up here.</string>
+    <string name="fullName">Full Name</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">By clicking SignUp you agree all the Terms and Conditions.</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="already_user">Already have Account? Login here.</string>
+    <string name="registered_emailid">Please enter your Registered Email Id below:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="image">📷   Click Here To Upload Your Picture......</string>
+
+    <string name="dialog_tip"> Your Android version is greater than or equal Android 5.0, App Lock need to get the \"Application Usage\" permission
+    </string>
+    <string name="warning">Warning</string>
+    <string name="lockscreen_access_pattern_cell_added">Added cell</string>
+    <string name="lockscreen_access_pattern_start">Draw unlock pattern</string>
+    <string name="lockscreen_access_pattern_detected">Pattern has been saved </string>
+    <string name="lockscreen_access_pattern_cleared">Pattern has been deleted </string>
+    <string name="lock_recording_incorrect_too_short">You should connect at least 4 points.</string>
+    <string name="lock_pattern_entered_header">Record pattern</string>
+    <string name="lock_need_to_confirm">Draw the pattern again to confirm</string>
+    <string name="lock_need_to_unlock_wrong">The pattern do not match. Please try again.</string>
+    <string name="password_gestrue_tips">Draw pattern to unlock</string>
+    <string name="password_error_count">The pattern does not match. Please try again.</string>
+    <string name="lock_draw_unlock_pattern">Draw the unlock pattern</string>
+    <string name="lock_enter_pin_code">Enter a numeric password</string>
+    <string name="lock_pattern_confirmed_header">Confirmed Pattern</string>
+    <string name="lock_recording_intro_header">Set the App\'s unlock pattern</string>
+    <string name="lock_settings_help_how_to_record">How to draw an unlock pattern</string>
+    <string name="accessibility_service_description">This permission is only used for locking the apps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

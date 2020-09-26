@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="256dp"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/text_view_collapsed_0"
+        style="@style/TextAppearance.Compat.Notification.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile Owner Detail"
+        android:textSize="12dp"
+        android:layout_gravity="center"
+        android:textColor="#039BE5" />
+    <TextView
+        android:id="@+id/text_view_collapsed_1"
+        style="@style/TextAppearance.Compat.Notification.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="03431478580"
+        android:textSize="12dp"
+        android:paddingLeft="10dp"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/text_view_collapsed_2"
+        style="@style/TextAppearance.Compat.Notification.Info"
+        android:layout_width="wrap_content"
+        android:textColor="#000000"
+        android:paddingBottom="5dp"
+        android:layout_gravity="left"
+        android:paddingLeft="10dp"
+        android:textSize="12dp"
+        android:layout_height="wrap_content"
+        android:text="itssamrantariq@gamil.com" />
+
+    <ImageView
+        android:id="@+id/image_view_expanded"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/passs" />
+
+</LinearLayout>

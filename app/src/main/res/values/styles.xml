@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/progress_bar_color</item>
+        <item name="colorPrimaryDark">#101010</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="MyDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@color/yellow</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="nointernet" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="android:background">#FEEFB3</item>
+        <item name="android:textColor">#9F6000</item>
+    </style>
+    <style name="imagealert" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="android:background">#1E88E5</item>
+        <item name="android:textColor">#0622D8</item>
+    </style>
+    <style name="mailalert" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">#D44638</item>
+        <item name="android:textColor">#C6C6C6</item>
+    </style>
+    <style name="exampleToast">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#090000</item>
+        <item name="stTextSize">16sp</item>
+        <item name="stColorBackground">#FDFDFD</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">8dp</item>
+        <item name="stStrokeColor">#199E1F</item>
+        <item name="stLength">LONG</item> LONG or SHORT
+        <item name="stGravity">top</item> top or center
+        <item name="stRadius">5dp</item>
+    </style>
+    <style name="RedAccent" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorAccent">#0E0D0D</item>
+        <item name="colorControlActivated">#FFFCFC</item>
+    </style>
+    <style name="unlock_activity_style" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+    </style>
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">#9E9E9E</item>
+    </style>
+    <style name="menu_labels_style">
+        <item name="android:background">#fff</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TranslucentDialog" parent="@android:style/Theme.DeviceDefault.Dialog.Alert" tools:targetApi="lollipop_mr1">
+        <item name="android:colorBackground">#D5000000</item>
+        <item name="android:textColor">#FFFAFA</item>
+    </style>
+</resources>

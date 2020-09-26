@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/line"
+    tools:context=".appermiss">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="367dp"
+            android:alpha="0.2"
+            android:src="@drawable/lunchericon" />
+
+        <TextView
+            android:layout_width="244dp"
+            android:layout_height="2dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="22dp"
+            android:background="#ffffff"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="16dp"
+            android:text="PERMISSIONS OWNER NEED TO COMPLETELY SECURE YOUR DEVICE."
+            android:textSize="19dp"
+            android:textColor="#ffffff"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="128dp"
+            android:layout_marginLeft="16dp"
+            android:text="ACCESS DEVICE LOCATION"
+            android:textSize="16dp"
+            android:padding="2dp"
+            android:background="@drawable/startbutton"
+            android:textColor="#fff"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:layout_marginTop="160dp"
+            android:layout_marginLeft="16dp"
+            android:text="By using this permission OWNER able to track device location and control geofencing."
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:textStyle="normal"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="258dp"
+            android:layout_marginLeft="16dp"
+            android:text="MAKE AND MANAGE PHONE CALL"
+            android:textSize="16dp"
+            android:textColor="#FFF"
+            android:padding="2dp"
+            android:background="@drawable/startbutton"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:layout_marginTop="290dp"
+            android:layout_marginLeft="16dp"
+            android:text="OWNER use this permission to hide and unhide app and to show the device's IMEI on evidence report."
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:textStyle="normal"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="382dp"
+            android:layout_marginLeft="16dp"
+            android:text="TAKE PICTURE (CAMERA PERMISSION)"
+            android:textSize="16dp"
+            android:textColor="#FFf"
+            android:padding="2dp"
+            android:background="@drawable/startbutton"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:layout_marginTop="415dp"
+            android:layout_marginLeft="16dp"
+            android:text="OWNER use this permission to take picture of unauthorized person who try to unlock and show this picture with evidence report(Email)"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:textStyle="normal"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="510dp"
+            android:layout_marginLeft="16dp"
+            android:text="SMS PERMISSION"
+            android:textSize="16dp"
+            android:textColor="#FFF"
+            android:padding="2dp"
+            android:background="@drawable/startbutton"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:layout_marginTop="545dp"
+            android:layout_marginLeft="16dp"
+            android:text="OWNER use this permission to send your device location(any_trusted_number) via SMS if internet not available."
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:textStyle="normal"></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="645dp"
+            android:layout_marginLeft="16dp"
+            android:text="SMS PERMISSION"
+            android:textSize="16dp"
+            android:textColor="#Fff"
+            android:padding="2dp"
+            android:background="@drawable/startbutton"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:layout_marginTop="675dp"
+            android:layout_marginLeft="16dp"
+            android:text="OWNER use this permission to send your device location(any_trusted_number) via SMS if internet not available."
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:textStyle="normal"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="795dp"
+            android:layout_marginLeft="16dp"
+            android:text="OVERLAY APP SCREENS"
+            android:textSize="16dp"
+            android:textColor="#FFf"
+            android:padding="2dp"
+            android:background="@drawable/startbutton"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="123dp"
+            android:layout_marginTop="825dp"
+            android:layout_marginLeft="16dp"
+            android:text="OWNER use this permission to Capture picture using window and when remote lock activated.OWNER utilize this permission to display a custom screen locks over all other apps."
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:textStyle="normal"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="960dp"
+            android:layout_marginLeft="16dp"
+            android:text="ACCESS DEVIC ADMIN PERMISSIONS"
+            android:textSize="16dp"
+            android:textColor="#FFf"
+            android:padding="2dp"
+            android:background="@drawable/startbutton"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="123dp"
+            android:layout_marginTop="995dp"
+            android:layout_marginLeft="16dp"
+            android:text="OWNER can activate extra security tools with this permission, like remote wipe, lock and detect unlock attempt's."
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:textStyle="normal"></TextView>
+        <Button
+            android:id="@+id/startsigninactivity"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:layout_marginTop="1100dp"
+            android:background="@drawable/startbutton"
+            android:text="NEXT"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:textColor="#ffffff"
+            android:textStyle="normal"
+            android:textSize="23dp"
+            android:layout_marginLeft="5sp"
+            android:layout_marginRight="5sp"
+            ></Button>
+    </RelativeLayout>
+
+</ScrollView>
+
